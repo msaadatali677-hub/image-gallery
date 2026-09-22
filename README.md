@@ -6,7 +6,7 @@ The project provides a clean gallery interface where users can explore images, s
 
 ## 🚀 Live Demo
 
-👉 **[View Live Demo](#)**
+👉 **[View Live Demo](https://image-gallery-silk-phi.vercel.app/)**
 
 > Replace `#` with your GitHub Pages, Netlify, Vercel, or other live website URL.
 
